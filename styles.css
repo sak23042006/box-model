@@ -1,6 +1,13 @@
 /* Your code goes here */
-.elon{
+.elon {
   width: 300px;
   height: 375px;
-  margin:;
+  margin: 100px 0 0 100px;
+  border: 5px solid red;
+  border-style: dashed;
+  padding: 10px 5px 10px 5px;
+}
+img {
+  width: 300px;
+  height: 375px;
 }
